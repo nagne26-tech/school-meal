@@ -1,0 +1,8 @@
+{
+  "name": "스쿨밀 - 학교 급식 알리미",
+  "description": "전국 초·중·고등학교 NEIS 실시간 학교 급식 식단표 및 알레르기 안심 알림 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
